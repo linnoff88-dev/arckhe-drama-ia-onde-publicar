@@ -2,9 +2,9 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-[![Dónde publicar mi drama de IA](guia/assets/banner-es.jpg)](https://inematds.github.io/drama-ia-onde-publicar/guia/es/)
+[![Dónde publicar mi drama de IA](guia/assets/banner-es.jpg)](https://linnoff88-dev.github.io/
 
-📖 Guía de uso: **https://inematds.github.io/drama-ia-onde-publicar/guia/es/**
+📖 Guía de uso: **https://linnoff88-dev.github.io/
 
 Creaste (o vas a crear) una serie de drama con IA y no sabes a quién mostrársela ni quién paga. Este kit elimina las conjeturas: indicas tu ruta, te muestra las 26 puertas que conocemos con la fuente oficial de cada una, pone las abiertas primero, avisa cuáles ya cerraron y redacta el correo de presentación.
 
@@ -13,7 +13,7 @@ Una lista verificada (19/11/2026) de 26 plataformas y programas, con el enlace a
 
 ## Instalación técnica
 ```bash
-git clone https://github.com/inematds/drama-ia-onde-publicar && cd drama-ia-onde-publicar
+git clone https://github.com/linnoff88-dev/drama-ia-onde-publicar && cd drama-ia-onde-publicar
 python3 -m drama rotas
 python3 -m drama escolher --rota criador
 python3 -m drama vencidos

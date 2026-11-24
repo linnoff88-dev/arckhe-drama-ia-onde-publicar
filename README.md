@@ -1,4 +1,4 @@
-﻿# ðŸŽ¬ Onde publicar meu drama de IA
+# ðŸŽ¬ Onde publicar meu drama de IA
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -8,9 +8,9 @@
 
 **ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
 
-[![Onde publicar meu drama de IA](guia/assets/banner.jpg)](https://inematds.github.io/drama-ia-onde-publicar/guia/)
+[![Onde publicar meu drama de IA](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
 
-ðŸ“– Guia de uso: **https://inematds.github.io/drama-ia-onde-publicar/guia/**
+ðŸ“– Guia de uso: **https://linnoff88-dev.github.io/
 
 VocÃª fez (ou vai fazer) uma sÃ©rie de drama com IA e nÃ£o sabe a quem mostrar nem quem paga. Este kit tira o chute: vocÃª diz sua rota, ele lista as 26 portas que conhecemos com a fonte oficial de cada uma, pÃµe as abertas na frente, avisa as que jÃ¡ fecharam e escreve o e-mail de pitch.
 
@@ -19,7 +19,7 @@ Uma lista conferida (19/11/2026) de 26 plataformas e programas, com link da pÃ�
 
 ## InstalaÃ§Ã£o tÃ©cnica
 ```bash
-git clone https://github.com/inematds/drama-ia-onde-publicar && cd drama-ia-onde-publicar
+git clone https://github.com/linnoff88-dev/drama-ia-onde-publicar && cd drama-ia-onde-publicar
 python3 -m drama rotas
 python3 -m drama escolher --rota criador
 python3 -m drama vencidos
