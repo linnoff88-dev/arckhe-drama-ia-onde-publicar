@@ -26,7 +26,7 @@ def main(argv=None):
     a = ap.parse_args(argv)
     hoje = dt.date.fromisoformat(a.hoje) if getattr(a, "hoje", None) else None
     if a.cmd == "rotas":
-        print("pitch   : app de drama (você propõe, não há botão de enviar)\n"
+        print("pitch   : app de drama (você propõe, nêo há botêo de enviar)\n"
               "criador : programa de criador / ferramenta que paga (você já posta em rede social)\n"
               "piloto  : plataforma nova de drama (você envia um piloto)")
     elif a.cmd == "escolher":
